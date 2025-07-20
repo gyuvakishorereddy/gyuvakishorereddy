@@ -67,7 +67,7 @@
 - 📩 Email: g.yuvakishorereddy@gmail.com
 - 📸 [Instagram](https://www.instagram.com/g.yuvakishorereddy/)
 - 🔗 [WhatsApp Channel](https://whatsapp.com/channel/0029Vb3la9V7NoZtA1GUI00d)
-
+- 🔗 [Linkedin](https://www.linkedin.com/in/g-yuva-kishore-reddy/)
 ---
 
 ### 📊 GitHub Stats
@@ -91,4 +91,4 @@
 ---
 
 > 💬 “Think beyond limits — that's where innovation lives.”  
-> — _Kishore Reddy_
+> — _G.Yuva Kishore Reddy_
