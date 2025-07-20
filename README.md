@@ -67,13 +67,13 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:codenviastudios@codenvia.com">
+  <a href="mailto:g.yuvakishorereddy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/g-yuva-kishore-reddy-8793542b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/codenviastudios/" target="_blank">
+  <a href="https://www.instagram.com/g.yuvakishorereddy/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb3la9V7NoZtA1GUI00d" target="_blank">
