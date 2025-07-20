@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G. Yuva Kishore Reddy</h1>
-<h3 align="center">🚀 Founder of <span style="color:#00FFFF;">Codenvia</span> | AI Innovator | Tech Explorer</h3>
+<h3 align="center">🚀 Tech Explorer | AI Innovator | Project Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kishore276&label=Visitors&color=0e75b6&style=flat" alt="Kishore276" />
@@ -11,7 +11,7 @@
 
 - 🚗 Building: **Automatic Vehicle Detection & Smart E-Challan System**
 - 🧠 Learning: `MATLAB + IoT Simulation`, `Real-time AI Projects`
-- 💬 Ask me about: `OpenCV`, `TypeScript`, `Python`, `React`, `EasyOCR`, `Streamlit`
+- 💬 Ask me about: `OpenCV`, `TypeScript`, `Python`, `Flutter`, `React`, `EasyOCR`, `Streamlit`
 - 🔭 Exploring: `Generative AI`, `Skin Care ML`, `Musculoskeletal Detection`
 - ⚡ Fun Fact: I build solutions *before* people realize they need them 😄
 
@@ -29,9 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" height="25"/>
 </p>
 
 ---
@@ -62,16 +64,19 @@
 
 ---
 
-### 🌐 Connect with Me
+### 📬 Contact Me
 
 <p align="center">
+  <a href="mailto:codenviastudios@codenvia.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/g-yuva-kishore-reddy-8793542b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:codenviastudios@codenvia.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/codenviastudios/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.codenvia.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00bcd4?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  <a href="https://whatsapp.com/channel/0029Vb3la9V7NoZtA1GUI00d" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
