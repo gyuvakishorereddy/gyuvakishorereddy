@@ -66,9 +66,12 @@
 
 ### 🔥 GitHub Contribution Streak
 
+### 🔥 GitHub Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishore276&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kishore276&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
