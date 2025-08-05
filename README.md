@@ -55,11 +55,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishore276&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Kishore276&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore276&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
