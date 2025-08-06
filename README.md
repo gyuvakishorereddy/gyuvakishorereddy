@@ -6,7 +6,6 @@
 </p>
 
 ---
----
 
 ### 🏆 GitHub Trophies
 
