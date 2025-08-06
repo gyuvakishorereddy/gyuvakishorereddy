@@ -53,10 +53,8 @@
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishore276&show_icons=true&theme=tokyonight" height="180"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight&hide_border=true" height="180"/> -->
 </p>
 
 <p align="center">
@@ -65,14 +63,19 @@
 
 ---
 
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kishore276&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
 
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kishore276&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
