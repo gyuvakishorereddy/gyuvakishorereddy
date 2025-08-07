@@ -79,7 +79,7 @@
 
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight&hide_border=true)" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
