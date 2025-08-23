@@ -54,16 +54,20 @@
 
 ### 📌 Pinned Projects
 
-- 🔹 [**Automatic Vehicle Detection - Smart E-Challan Generator**](https://github.com/Kishore276/Automatic-Vehicle-Detection-Smart-E-Challan-Generator)  
-  `HTML + Python + OpenCV` 🔁 Real-time AI for traffic monitoring
+🔹 Automatic Challan
 
-- 🔹 [**Heal-Track**](https://github.com/Kishore276/Heal-Track)  
-  Health tracker with data charts | `Firebase` + `TypeScript`
+Flask + OpenCV + SQLite 🔁 Automated traffic penalty system
 
-- 🔹 [**UNO-GAME**](https://github.com/Kishore276/UNO-GAME)  
-  Multiplayer UNO in browser | `WebSockets` + `TypeScript`
+🔹 Vedik
 
----
+React + Firebase + Cloud Functions 🎉 AI-powered event & surprise planner
+
+🔹 AI Agent
+
+Python + LangChain + OpenAI API 🤖 Autonomous task execution assistant
+
+
+----
 
 ### 📈 GitHub Stats
 
