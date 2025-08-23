@@ -54,7 +54,7 @@
 
 ## 🚀 New Projects
 
-- 🔹 [**Automatic Challan**](https://github.com/Kishore276/Automatic-Challan)  
+- 🔹 [**Automatic-Vehicle-Detection-Smart-E-Challan-Generator-**](https://github.com/Kishore276/Automatic-Challan)  
   `Flask + OpenCV + SQLite` 🔁 Automated traffic penalty system  
 
 - 🔹 [**Vedik**](https://github.com/Kishore276/Vedik)  
