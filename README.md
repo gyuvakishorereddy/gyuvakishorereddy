@@ -52,19 +52,17 @@
 
 ---
 
-### 📌 Pinned Projects
+## 🚀 New Projects
 
-🔹 Automatic Challan
+- 🔹 [**Automatic Challan**](https://github.com/Kishore276/Automatic-Challan)  
+  `Flask + OpenCV + SQLite` 🔁 Automated traffic penalty system  
 
-Flask + OpenCV + SQLite 🔁 Automated traffic penalty system
+- 🔹 [**Vedik**](https://github.com/Kishore276/Vedik)  
+  `React + Firebase + Cloud Functions` 🔁 AI-powered event & surprise planner  
 
-🔹 Vedik
+- 🔹 [**AI Agent**](https://github.com/Kishore276/AI-Agent)  
+  `Python + LangChain + OpenAI API` 🔁 Autonomous task execution assistant  
 
-React + Firebase + Cloud Functions 🎉 AI-powered event & surprise planner
-
-🔹 AI Agent
-
-Python + LangChain + OpenAI API 🤖 Autonomous task execution assistant
 
 
 ----
