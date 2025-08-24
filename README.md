@@ -6,8 +6,8 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kishore276&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
