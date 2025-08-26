@@ -6,13 +6,12 @@
 </p>
 
 ---
+
 ## 🏆 GitHub Trophies
 
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishore276&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kishore276&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
 
 ---
 
@@ -58,16 +57,12 @@
 - 🔹 [**AI Agent**](https://github.com/Kishore276/AI-Agent)  
   `Python + LangChain + OpenAI API` 🔁 Autonomous task execution assistant  
 
-
-
-----
+---
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishore276&show_icons=true&theme=tokyonight" height="180"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight&hide_border=true" height="180"/> -->
 </p>
 
 <p align="center">
@@ -78,12 +73,9 @@
 
 ## 🔥 GitHub Contribution Streak
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore276&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kishore276&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 
 ---
 
@@ -99,18 +91,14 @@
   <a href="https://www.instagram.com/g.yuvakishorereddy/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
 </p>
 
 ---
 
 ### 📬 Follow My Channel on WhatsApp
+
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb3la9V7NoZtA1GUI00d" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-
-
-
