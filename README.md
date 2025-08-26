@@ -7,7 +7,7 @@
 
 ---
 
-## ​ GitHub Trophies (Self-hosted)
+## ​ GitHub Trophies
 
 <p align="center">
   <img src="https://your-deployment-url.vercel.app/?username=Kishore276&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
@@ -45,8 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishore276&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore276&layout=compact&title_color=ff9800&text_color=00e676&bg_color=0d1117&hide_border=true" height="180"/>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore276&layout=compact&theme=vision-friendly-dark&hide_border=true" height="180"/>
 </p>
 
 ---
