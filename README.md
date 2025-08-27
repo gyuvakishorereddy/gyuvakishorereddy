@@ -48,7 +48,7 @@
 
 ##  New Projects
 
-- 🔹 [**Automatic-Vehicle-Detection-Smart-E-Challan-Generator-**](https://github.com/Kishore276/Automatic-Challan) — `Flask + OpenCV + SQLite`  
+- 🔹 [**Automatic-Vehicle-Detection-Smart-E-Challan-Generator-**](https://github.com/Kishore276/Automatic-Vehicle-Detection-Smart-E-Challan-Generator-.git) — `Flask + OpenCV + SQLite`  
 - 🔹 [**Vedik**](https://github.com/Kishore276/Vedik) — `React + Firebase + Cloud Functions`  
 - 🔹 [**AI Agent**](https://github.com/Kishore276/AI-Agent) — `Python + LangChain + OpenAI API`
 
