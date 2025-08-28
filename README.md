@@ -58,7 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishore276&show_icons=true&theme=tokyonight" height="180" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore276&layout=compact&theme=vision-friendly-dark&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore276&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=3600" height="180"/>
 </p>
 
 ---
@@ -76,7 +76,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore276&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-----
+
+
+---
 
 ### 📬 Contact Me
 
