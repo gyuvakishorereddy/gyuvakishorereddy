@@ -46,14 +46,19 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishore276&show_icons=true&theme=tokyonight" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore276&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=3600" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore276&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=3600" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kishore276/Kishore276/master/profile-summary-card-output/default/4-productive-time.svg" height="200"/>
 </p>
 
 ---
+
 
 ##  GitHub Contribution Streak
 
