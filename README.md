@@ -87,7 +87,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb3la9V7NoZtA1GUI00d" target="_blank">
+  <a href="https://wa.me/message/2V37YUZ3LPSEO1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
