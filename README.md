@@ -20,7 +20,7 @@
 - 🚗 Building: **Automatic Vehicle Detection & Smart E-Challan System**
 - 🧠 Learning: `MATLAB + IoT Simulation`, `Real-time AI Projects`
 - 💬 Ask me about: `OpenCV`, `TypeScript`, `Python`, `Flutter`, `React`, `EasyOCR`, `Streamlit`
-- 🔭 Exploring: `Generative AI`, `Skin Care ML`, `Musculoskeletal Detection`
+- 🔭 Exploring: `Generative AI`, `Skin Care ML`, `Musculoskeletal Detection`, 'LLM'
 - ⚡ Fun Fact: I build solutions *before* people realize they need them 😄
 
 ---
