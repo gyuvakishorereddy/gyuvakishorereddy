@@ -16,8 +16,7 @@
 ---
 
 ### About Me
-
-- 🚗 Building: **Automatic Vehicle Detection & Smart E-Challan System**
+- 🚗 Building: **AI AGENT FOR ADMISSIONS USING RAG AND MULTILINGUAL SUPPORT**
 - 🧠 Learning: `MATLAB + IoT Simulation`, `Real-time AI Projects`
 - 💬 Ask me about: `OpenCV`, `TypeScript`, `Python`, `Flutter`, `React`, `EasyOCR`, `Streamlit`
 - 🔭 Exploring: `Generative AI`, `Skin Care ML`, `LLM `
@@ -54,7 +53,6 @@
 </p>
 
 ---
-
 
 ##  GitHub Contribution Streak
 
