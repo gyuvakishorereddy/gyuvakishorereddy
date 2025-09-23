@@ -18,7 +18,7 @@
 ### About Me
 - 🚗 Building: **AI AGENT FOR ADMISSIONS USING RAG AND MULTILINGUAL SUPPORT**
 - 🧠 Learning: `ML`, `GEN AI`, `Real-time AI Projects`
-- 💬 Ask me about: `OpenCV`, `TypeScript`, `Python`, `Flutter`, `React`, `EasyOCR`, `Streamlit`
+- 💬 Ask me about: `OpenCV`, `TypeScript`, `Python`, `Flutter`, `React`, `Expo Go`, `LLM`
 - 🔭 Exploring: `Generative AI`, `Skin Care ML`, `LLM `
 - ⚡ Fun Fact: I build solutions *before* people realize they need them 😄
 
