@@ -42,16 +42,16 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" height="25"/>
 </p>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/expo-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/vercel-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/anaconda-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/expo-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/vercel-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/anaconda-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="40" height="40" />
 </div>
 
 <table align="center">
