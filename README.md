@@ -80,7 +80,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore276&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore276&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore276&theme=react-dark&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
