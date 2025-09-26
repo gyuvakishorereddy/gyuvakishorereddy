@@ -41,6 +41,17 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" height="25"/>
 </p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
 ---
 
