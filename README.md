@@ -65,7 +65,7 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=kishore276&show_icons=true&theme=tokyonight" height="180" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kishore276&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&custom_title=Development%20Statistics" />
+  <img src="" />
 
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore276&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=3600" height="180"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore276&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Language%20Distribution" />
