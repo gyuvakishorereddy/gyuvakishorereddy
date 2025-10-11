@@ -1,19 +1,33 @@
-name: Update Profile Readme
+name: ♻️ Update GitHub Profile README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs once a day at midnight
-  workflow_dispatch:     # allows manual trigger
+    - cron: '0 0 * * *'  # Runs once a day at midnight (UTC)
+  workflow_dispatch:       # Allows manual trigger from Actions tab
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
 
-      - name: Generate README
+    steps:
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧠 Generate Profile README
         uses: jaydeep-yadav/auto-profile-readme@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: Kishore276
+
+      - name: 🔁 Add cache-busting timestamp
+        run: |
+          # This ensures GitHub refreshes your README (like the Trophy image)
+          sed -i "s/timestamp=[0-9]*/timestamp=$(date +%s)/" README.md || true
+
+      - name: 💾 Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Auto-update README on $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
