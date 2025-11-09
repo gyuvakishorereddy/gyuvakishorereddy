@@ -121,3 +121,9 @@
   </a>
 </p>
 
+<div align="center" style="font-family: 'Georgia', serif; font-style: italic; color: #666;">
+  <em>"Star my repositories if they inspire you! Let's build innovative backend systems together."</em>
+  <br>
+  <strong>Crafted with precision by G. Yuva Kishore Reddy </strong>
+</div>
+
