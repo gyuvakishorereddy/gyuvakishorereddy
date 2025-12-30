@@ -20,7 +20,7 @@
 - 🚗 Building: **AI AGENT FOR ADMISSIONS USING RAG AND MULTILINGUAL SUPPORT**
 - 🧠 Learning: `ML`, `GEN AI`, `Building Real-time AI Projects`
 - 💬 Ask me about: `OpenCV`, `TypeScript`, `Python`, `ML`, `React`, `Expo Go`, `LLM`
-- 🔭 Exploring: `Generative AI`, `Skin Care ML`, `LLM `
+- 🔭 Exploring: `Generative AI`, `Automation Testing`, `LLM `
 - ⚡ Fun Fact: I build solutions *before* people realize they need them 😄
 
 ---
