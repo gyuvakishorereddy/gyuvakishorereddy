@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G. Yuva Kishore Reddy</h1>
-<h3 align="center">🚀 Tech Explorer | AI Innovator | Project Builder</h3>
+<h3 align="center">🚀 Project Builder | AI Innovator | Tech Explorer</h3>
 
 
 <p align="center">
