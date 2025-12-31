@@ -87,7 +87,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Daily Contribution Graph
 
 <p align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyuvakishorereddy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> -->
