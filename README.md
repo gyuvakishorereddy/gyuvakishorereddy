@@ -81,7 +81,7 @@
 ##  GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gyuvakishorereddy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gyuvakishorereddy&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyuvakishorereddy&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" /> -->
 </p>
 
