@@ -11,7 +11,7 @@
 ## ​ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyuvakishorereddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=gyuvakishorereddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ---
@@ -78,22 +78,69 @@
 
 ---
 
-##  GitHub Contribution Streak
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gyuvakishorereddy&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyuvakishorereddy&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" /> -->
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://nirzak-streak-stats.vercel.app/?user=gyuvakishorereddy">
+          <img width="705" src="https://nirzak-streak-stats.vercel.app/?user=gyuvakishorereddy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyuvakishorereddy">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyuvakishorereddy&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=gyuvakishorereddy">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=gyuvakishorereddy&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
----
-
-## 📈 Daily Contribution Graph
-
-<p align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyuvakishorereddy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyuvakishorereddy&theme=react-dark&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyuvakishorereddy">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyuvakishorereddy&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyuvakishorereddy&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyuvakishorereddy&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyuvakishorereddy">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyuvakishorereddy&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gyuvakishorereddy">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gyuvakishorereddy&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
