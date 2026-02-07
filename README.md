@@ -6,15 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=gyuvakishorereddy&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
----
 
-## ​ GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=gyuvakishorereddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Full+Stack+Developer;I%27m+a+Data+Analyst;I%27m+a+ML%20Engineer"></p>
 
 ### About Me
 - 🚗 Building: **AI AGENT FOR ADMISSIONS USING RAG AND MULTILINGUAL SUPPORT**
@@ -25,23 +20,25 @@
 
 ---
 
-###  Tech Stack & Tools
 
-<!-- <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" height="25"/>
-</p> -->
+### 🌐 Socials
+<p align="center">
+  <a href="mailto:g.yuvakishorereddy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/g-yuva-kishore-reddy-8793542b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <!-- <a href="https://www.instagram.com/g.yuvakishorereddy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> -->
+   <a href="https://wa.me/message/2V37YUZ3LPSEO1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+### 🛠 Languages and Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -55,28 +52,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 </div>
 
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+[<img src="https://github-readme-stats.vercel.app/api?username=gyuvakishorereddy&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=gyuvakishorereddy)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyuvakishorereddy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuvakishorereddy)
 
----
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### GitHub Stats
+<a href="https://github-trophies.vercel.app/?username=gyuvakishorereddy" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=gyuvakishorereddy&theme=radical&margin-w=4&margin-h=4">
+</a>
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kishore276&show_icons=true&theme=tokyonight" height="180" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gyuvakishorereddy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&custom_title=Development%20Statistics" />
-
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore276&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=3600" height="180"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyuvakishorereddy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Language%20Distribution" />
-
-</p>
-
----
+*User achievement statistics by [Github Trophies](https://github.com/gyuvakishorereddy/github-trophies)*
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -141,40 +135,3 @@
     </tr>
   </tbody>
 </table>
-
----
-
-### 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:g.yuvakishorereddy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/g-yuva-kishore-reddy-8793542b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <!-- <a href="https://www.instagram.com/g.yuvakishorereddy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
-   <a href="https://wa.me/message/2V37YUZ3LPSEO1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
- 
-
----
-
-### 📬 Follow My Channel on WhatsApp
-
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb3la9V7NoZtA1GUI00d" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<div align="center" style="font-family: 'Georgia', serif; font-style: italic; color: #666;">
-  <em>"Star my repositories if they inspire you! Let's build innovative backend systems together."</em>
-  <br>
-  <strong>Crafted with precision by G. Yuva Kishore Reddy </strong>
-</div>
-
